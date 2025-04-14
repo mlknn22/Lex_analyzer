@@ -1,0 +1,6 @@
+﻿  FileUtils.cpp
+  Lexer.cpp
+C:\СПО\lexa\lexa\Lexer.cpp(114,41): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  lexa.vcxproj -> C:\СПО\lexa\x64\Debug\lexa.exe

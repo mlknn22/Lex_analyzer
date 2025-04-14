@@ -1,0 +1,16 @@
+include
+iostream
+string
+int
+factorial
+n
+if
+return
+else
+main
+number
+std
+message
+to_string
+cout
+endl

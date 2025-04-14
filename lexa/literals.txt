@@ -1,0 +1,4 @@
+"Factorial of "
+" is: "
+"Special number!"
+"Number is too large or negative."
